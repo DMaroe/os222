@@ -1,3 +1,7 @@
+---
+permalink: /LINKS/
+---
+
 ### By. ~~Diablo bin~~ Dylan
 
 [Home?](https://www.instagram.com/dylan.pribadi) -- [Flying](https://m.metaco.gg/pokemon-unite/panduan-pokemon-unite-build-ability-item-dragonite)
