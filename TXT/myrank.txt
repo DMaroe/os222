@@ -2,3 +2,6 @@
 ZCZC W02 www.scele.cs.ui.ac.id
 ZCZC W02 https://bulbapedia.bulbagarden.net
 ZCZC W02 https://translate.google.com
+ZCZC W03 https://bulbapedia.bulbagarden.net
+ZCZC W03 https://translate.google.com
+ZCZC W03 www.scele.cs.ui.ac.id
