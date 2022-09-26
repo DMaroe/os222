@@ -19,5 +19,5 @@ permalink: /LINKS/
 6.| Translating id to en and en to id is my hobby. | it's basically google translate | https://translate.google.com
 7.| To find hints about my Weekly Assignments | Mr. RMS's GitHub page | https://github.com/cbkadal/os222/blob/master/links.md?plain=1
 8.| Basically what every Fasilkom UI student needs | A gateway to all academics and information about Fasilkom UI | www.scele.cs.ui.ac.id
-9.| I can find cat memes here. | Online Social Media | www.instagram.com 
+9.| I can find cat memes here. | Online Meme Media | https://9gag.com
 10.| Where it all started. | the almighty | https://google.com
