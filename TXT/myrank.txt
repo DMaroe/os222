@@ -1,10 +1,4 @@
 # WEEKLY 3 of 10 RANKS
-ZCZC W02 www.scele.cs.ui.ac.id
-ZCZC W02 https://bulbapedia.bulbagarden.net
-ZCZC W02 https://translate.google.com
-ZCZC W03 https://bulbapedia.bulbagarden.net
-ZCZC W03 https://translate.google.com
-ZCZC W03 www.scele.cs.ui.ac.id
-ZCZC W05 https://bulbapedia.bulbagarden.net
-ZCZC W05 www.scele.cs.ui.ac.id
-ZCZC W05 https://tokopedia.com
+ZCZC W06 syafiqoarashy
+ZCZC W06 tommyraspati
+ZCZC W06 AndiRaihan
