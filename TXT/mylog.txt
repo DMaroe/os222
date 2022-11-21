@@ -18,3 +18,9 @@ ZCZC W06 150 L16 Problems occured from previous assignment problems
 ZCZC W06 100 L02 Offline Class (New Building)
 ZCZC W06 100 L02 Offline Lecture (Auditorium New Building)
 ZCZC W06 20 L05 Quiz study + done
+ZCZC W08 100 L02 Offline class with Lecturer
+ZCZC W08 100 L02 Offlineclass with Lecturer
+ZCZC W08 10 L05 Quiz related
+ZCZC W08 50 L01 Scele/discord related
+ZCZC W08 600 L09 weekly assignment
+ZCZC W08 3 L41 TXT/mylog.txt related
