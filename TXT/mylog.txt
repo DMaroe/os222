@@ -8,19 +8,40 @@ ZCZC W01 100 L02 Zoom Meeting Class
 ZCZC W01 100 L02 Zoom Meeting Class
 ZCZC W02 100 L02 Class
 ZCZC W02 100 L02 Class
+ZCZC W02 120 L09 weekly assignment
 ZCZC W03 100 L02 Class
 ZCZC W03 100 L02 Class
+ZCZC W03 10 L05 Quiz related
+ZCZC W03 50 L09 weekly assignment
 ZCZC W04 100 L02 Class
 ZCZC W04 100 L02 Class
+ZCZC W04 10 L05 Quiz related
+ZCZC W04 10 L05 Quiz related
+ZCZC W04 120 L09 weekly assignment
 ZCZC W05 100 L02 Class
 ZCZC W05 100 L02 Class
+ZCZC W05 10 L05 Quiz related
+ZCZC W05 10 L05 Quiz related
+ZCZC W05 90 L09 weekly assignment
 ZCZC W06 150 L16 Problems occured from previous assignment problems
 ZCZC W06 100 L02 Offline Class (New Building)
 ZCZC W06 100 L02 Offline Lecture (Auditorium New Building)
 ZCZC W06 20 L05 Quiz study + done
+ZCZC W07 100 L02 Lectures
+ZCZC W07 100 L02 Lectures
+ZCZC W07 10 L05 Quiz related
+ZCZC W07 10 L05 Quiz related
 ZCZC W08 100 L02 Offline class with Lecturer
 ZCZC W08 100 L02 Offlineclass with Lecturer
 ZCZC W08 10 L05 Quiz related
 ZCZC W08 50 L01 Scele/discord related
 ZCZC W08 600 L09 weekly assignment
 ZCZC W08 3 L41 TXT/mylog.txt related
+ZCZC W09 900 L16 Problems occured from previous assignment problems, LFS Ch. 1-5 won't load
+ZCZC W09 10 L05 Quiz related
+ZCZC W09 10 L05 Quiz related
+ZCZC W09 100 L02 Lectures
+ZCZC W09 100 L02 Lectures
+ZCZC W09 1280 L09 weekly assignment (NOT FINISHED!)
+
+
